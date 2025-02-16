@@ -21,10 +21,10 @@ go run main.go
 
 Реализованы запросы к API:
 ```bash
-POST http://localhost:8080/api/v1/send_coin
-POST http://localhost:8080/api/v1/authorize
-GET http://localhost:8080/api/v1/buy/cup
-GET http://localhost:8080/api/v1/info
+POST http://localhost:8080/api/send_coin
+POST http://localhost:8080/api/authorize
+GET http://localhost:8080/api/buy/cup
+GET http://localhost:8080/api/info
 ```
 
 ## 🔍 Структура проекта
